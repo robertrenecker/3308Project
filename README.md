@@ -1,7 +1,25 @@
 # 3308Project
+Who: Michael Vienneau (mvienneau), 
 
-Final Project for CSCI3308
+Title: Final Project
 
+Description: An iPhone app designed to help people know what fun activities/events are happening around them. Uses a photo based sharing network integrated with GPS to show exciting photos near the user.
+
+Vision Statement: 
+
+Motivation: To help familiarize us with swift, databases, and web/server based integration. Also, to provide an easy way to share exciting/interesting things around you.
+
+Risks: Not well experienced with server based programming and swift -- but ready to learn.
+
+Strategy for Risk: Split the work up so every memeber just has to worry about one particular element, and then as a team we can put it all back toegether.
+
+Requirements: 
+
+Methodology: Agile
+
+Project Tracking Software: Pivotal Tracker
+
+Project Plan:
 To Get Running:
 1) Download MAMP
 2) Download/Open Xcode
