@@ -1,5 +1,5 @@
 # 3308Project
-Who: Michael Vienneau (mvienneau), 
+Who: Michael Vienneau (mvienneau), John Welch (Jinjirow)
 
 Title: Final Project
 
