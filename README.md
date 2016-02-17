@@ -1,5 +1,5 @@
 # 3308Project
-Who: Michael Vienneau (mvienneau), John Welch (Jinjirow), Victoria Velasquez (torivelasquez)
+Who: Michael Vienneau (mvienneau), John Welch (Jinjirow), Victoria Velasquez (torivelasquez), Christopher Struckman (Chris-Struckman17)
 
 Title: Final Project
 
